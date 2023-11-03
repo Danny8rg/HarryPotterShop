@@ -1,0 +1,15 @@
+.titlePrincipal{
+    font-size: 20px;
+    color: grey;
+    width: 400px;
+    font-family: cursive;
+}
+
+.cajaHeader{
+    width: 100;
+    height: 100px;
+    background-color: #4a1164;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
